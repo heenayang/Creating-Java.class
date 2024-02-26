@@ -6,7 +6,7 @@ import java.util.Scanner;
 /**
  * Class Name   : Normal_RPS
  * Author       : 202-09
- * Created Date : 2024. 2. 23.
+ * Created Date : 2024. 2. 26.
  * Version      : 1.1
  * Purpose      :
  * Desciption   :
